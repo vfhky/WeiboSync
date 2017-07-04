@@ -35,5 +35,5 @@ Typecho新浪微博同步插件
 ##### 3.2 版本1.0.0 (2017.07.04)
     1、完善所有的程序和相关文档。
 
-本版本详细说明：[Typecho同步新浪微博的插件（可提取文章图片作配图）](https://typecodes.com/mix/synweibophpmarkdownimgurl.html 'Typecho同步新浪微博的插件（可提取文章图片作配图）')。
+本版本详细说明：[Typecho同步新浪微博的插件（可提取文章图片作配图）](https://typecodes.com/mix/typechosynweibo.html 'Typecho同步新浪微博的插件（可提取文章图片作配图）')。
 
