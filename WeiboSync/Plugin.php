@@ -5,7 +5,7 @@
  * @package     WeiboSync
  * @author 		vfhky
  * @version 	1.0.0
- * @update: 	2014.09.20
+ * @update: 	2015.12.11
  * @link https://typecodes.com
  */
 
